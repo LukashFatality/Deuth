@@ -13,3 +13,9 @@ pip install scapy
 ```
 # Note [ ! ]
 Only Root
+# Basic Command
+``` bash
+
+git clone https://github.com/LukashFatality/Deuth.git
+cd Deuth
+sudo deuth -h
